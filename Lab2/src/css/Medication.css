@@ -1,0 +1,45 @@
+#title {
+    text-align: center;
+    font-family: arial, sans-serif;
+  }
+  
+  .page {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 15px;
+    height: 15px;
+    align-content: center;
+    text-align: center;
+    padding: 2px;
+    background: beige;
+    margin: 5px;
+  }
+  
+  #page-numbers {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 42%;
+    margin-right: 42%;
+  }
+  #tables {
+    text-align: center;
+    font-family: Arial;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+    
+  }
+  
+  #tables td, #tables th {
+    border: 1px solid black;
+    padding: 8px;
+  }
+
+  
+  #tables th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: blue;
+    color: black;
+  }
